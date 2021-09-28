@@ -133,6 +133,7 @@ api.setting.intl.miui.com
 sa-api.api.intl.miui.com
 tracking.intl.miui.com
 connect.rom.miui.com
+au.ff.avast.sec.miui.com
 
 #12306
 ad.12306.cn
@@ -175,6 +176,34 @@ aegis.qq.com
 sdksp.video.qq.com
 www.urlshare.cn
 sngmta.qq.com
+masdkv6.3g.qq.com
+cmshow.gtimg.cn
+res.wx.qq.com
+down.qq.com
+dl.url.cn
+sqdd.myapp.com
+qappcenterv6.3g.qq.com
+#d.url.cn
+report.edu.qq.com
+imweblog.qq
+h.trace.qq.com
+analy.qq.com
+commdata.v.qq.com
+tdid.m.qq.com
+tbsall.imtt.qq.com
+mazu.3g.qq.com
+event.toggle.qq.com
+qqtuan.qq.com
+qqdata.ab.qq.com
+tbsone.imtt.qq.com
+access.toggle.qq.com
+tmapp.qq.com
+sas.qq.com
+sdksp6.video.qq.com
+rpt.gdt.qq.com
+vv6.video.qq.com
+qd.myapp.com
+
 
 #gaode
 wb.110.taobao.com
