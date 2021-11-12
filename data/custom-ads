@@ -1,0 +1,13 @@
+#zhihu
+zhihu-web-analytics.zhihu.com @ads
+crash2.zhihu.com @ads
+
+#baidu
+hectorstatic.baidu.com @ads
+cpro.baidu.com @ads
+passport.baidu.com @ads
+
+#huxiu
+log-api.huxiu.com @ads
+api-ad-product.huxiu.com @ads
+#regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$ @ads
