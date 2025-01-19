@@ -75,3 +75,10 @@ full:xz.pphimalayanrt.com @cn
 
 # 蒸汽中国
 steamchina.com @cn
+
+# https://github.com/MetaCubeX/meta-rules-dat/issues/58
+# 我也发现这个了，今天Steam升级BMW的时候连的就这个gstore.val.manlaxy.com，幸好GEOIP命中cn了走的直连
+smogfly.com @cn
+manlaxy.com @cn
+chxyun.cn @cn
+wanwang.space @cn
