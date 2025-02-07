@@ -1,6 +1,11 @@
 chaspark.com
 syncthing.net
 contentsync.onenote.com
+microsoftpersonalcontent.com
+onenote.com
+onedrive.com
+include:microsoft
+include:apple
 apple.com
 icloud.com
 icloud-content.com
@@ -63,3 +68,10 @@ aliyuncs.com
 visualstudio.com
 live.net
 windowsupdate.com
+
+ecombdimg.com
+myzhiniu.com
+
+#xiaomi
+new.c.mi.com
+deepseek.com

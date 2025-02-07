@@ -6,7 +6,7 @@ include:alibabacloud
 include:amazon
 include:amd
 include:anthropic
-include:apple
+#include:apple
 include:asus
 include:atlassian
 include:att
@@ -42,7 +42,7 @@ include:lg
 include:logitech
 include:mailru
 include:meta
-include:microsoft
+#include:microsoft
 include:mikrotik
 include:mindgeek
 include:mozilla

@@ -883,11 +883,23 @@ r7.sn-h5q7dn7k.googlevideo.com
 browser.events.data.msn.com
 gdtimg.com
 vip.foxitreader.cn
+mmstat.com @ads
+
+#soul
+soul-ad.soulapp.cn @ads
+ad-r.soulapp.cn @ads
+regexp:.*collector.* @ads
+click-bes.baidu.com @ads
+lp.pinduoduo.com @ads
+map-mobile-resource.cdn.bcebos.com @ads
+cdn.bcebos.com @ads
+mobile.events.data.microsoft.com @ads
+mousegesturesapi.com @ads
+
 regexp:collector.azure.*
 regexp:.*analytics.*
 regexp:.*report.*
 reports.baidu.com
 cf-se.com
-mmstat.com
 
-soul-ad.soulapp.cn
+crash2.zhihu.com
